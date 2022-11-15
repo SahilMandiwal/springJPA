@@ -9,7 +9,13 @@ public class ConflictdemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConflictdemoApplication.class, args);
 	
+
 	int b=99;
+
+
+	int a=99;
+		
+
 	}
 
 }
