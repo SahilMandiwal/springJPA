@@ -8,6 +8,9 @@ public class ConflictdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConflictdemoApplication.class, args);
+	
+	int a=99;
+		
 	}
 
 }
