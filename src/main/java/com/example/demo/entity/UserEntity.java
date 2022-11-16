@@ -6,8 +6,12 @@ public class UserEntity {
 		
 		System.out.println("come to dubai habibi");
 		
-		
 	}
 	
+	
+	public void addition() {
+		
+		System.out.println("habibi come to chandrapur");
+	}
 	
 }
