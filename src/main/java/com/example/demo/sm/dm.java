@@ -6,6 +6,8 @@ public class dm {
 		System.out.println("display on ");
 	}
 
-	
+	void nondisplay() {
+		System.out.println("display not avialable");
+	}
 	
 }
